@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Mood Colors -->
+    <color name="mood_happy_start">#FFF59D</color>
+    <color name="mood_happy_end">#FFB300</color>
+
+    <color name="mood_sad_start">#90CAF9</color>
+    <color name="mood_sad_end">#3F51B5</color>
+
+    <color name="mood_angry_start">#EF5350</color>
+    <color name="mood_angry_end">#B71C1C</color>
+
+    <color name="mood_chill_start">#81C784</color>
+    <color name="mood_chill_end">#009688</color>
+
+    <color name="mood_energetic_start">#FFB74D</color>
+    <color name="mood_energetic_end">#F57C00</color>
+
+    <!-- Theme Colors -->
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="accent">#03DAC5</color>
+</resources>
